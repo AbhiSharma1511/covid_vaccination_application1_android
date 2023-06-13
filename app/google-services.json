@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14340552664",
+    "project_id": "covid-vaccination-applic-165f9",
+    "storage_bucket": "covid-vaccination-applic-165f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14340552664:android:8c224a20ef17ef5b8ee4ad",
+        "android_client_info": {
+          "package_name": "com.example.covidvaccinationapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14340552664-roerbl21pt0p31nsitsq8a1p2ou1g7me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMnsfLPdD2WQTcRYmdm5p7uNh9fDD2QmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14340552664-roerbl21pt0p31nsitsq8a1p2ou1g7me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
